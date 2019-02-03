@@ -3,7 +3,7 @@ layout: page
 title: Betty And The Blushtones
 ---
 
-{% include logo_block.html content= "Gnarls Barkley, Corrine Bailey Ray, Kate Nash, Rag 'n' Bone Man, Florance and the Machine, Kylie, Adele, Duffy, Sam Sparrow, and more.." %}
+{% include logo_block.html content= "Gnarls Barkley, Corrine Bailey Ray, Kate Nash, Rag 'n' Bone Man, Florence and the Machine, Kylie, Adele, Duffy, Sam Sparrow, and more.." %}
 
 <img src="assets/band.jpg" class="rounded" alt="the band">
 
