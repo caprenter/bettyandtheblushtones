@@ -3,10 +3,9 @@ layout: page
 title: Betty And The Blushtones
 ---
 
-{% include logo_block.html content= "Gnarls Barkley, Corrine Bailey Ray, Kate Nash, Rag 'n' Bone Man, Florence and the Machine, Kylie, Adele, Duffy, Sam Sparrow, and more.." %}
+{% include logo_block.html content= "Female fronted covers band covering Gnarls Barkley, Corrine Bailey Rae, Kate Nash, Rag 'n' Bone Man, Florence and the Machine, Kylie, Adele, Duffy, Sam Sparrow, and more.." %}
 
 <img src="assets/band.jpg" class="rounded" alt="the band">
-
 
 ## Now Booking for 2019
 
@@ -16,9 +15,9 @@ Contact us using the details below.
 
 ## About
 
-Built around the incredible vocal talent of our lead singer Sophie, the band formed in 2017. 
+Built around the incredible vocal talent of our lead singer Sophie, the band play a popular mix of classic and contemporary songs. 
 
-Our current line up consists of Sophie (vocals), Jim (keyboards), Helen (drums), Dave (guitar) and Jonathan (Bass).
+The band first formed in 2016 and our current line up consists of Sophie (vocals), Jim (keyboards), Helen (drums), Dave (guitar) and Jonathan (Bass).
 
 We're based in and around Bradford, UK
 
