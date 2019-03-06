@@ -7,6 +7,13 @@ title: Betty And The Blushtones
 
 <img src="assets/band.jpg" class="rounded" alt="the band">
 
+## Gigs
+
+**2019**
+
+**Sat. 20th April:** [The New Inn Wilsden](https://www.facebook.com/newinnwilsden/ "The New Inn Wilsden - Facebook Page").  
+**Sat. 22nd June:** Wakefield Sports Club, WF1 3RR.
+
 ## Now Booking for 2019
 
 Betty And The Blushtones are now taking bookings for 2019 and beyond.
@@ -19,6 +26,8 @@ Built around the incredible vocal talent of our lead singer Sophie, the band pla
 
 The band first formed in 2016 and our current line up consists of Sophie (vocals), Jim (keyboards), Helen (drums), Dave (guitar) and Jonathan (Bass).
 
-We're based in and around Bradford, UK
+We're based in and around Bradford, UK.
 
-Dave and Jonathan also play with <a href="http://playingforkicks.co.uk/">Playing for Kicks</a>
+Dave and Jonathan also play with <a href="http://playingforkicks.co.uk/">Playing for Kicks</a>.
+
+We rehearse at [Prospect Studios](https://www.prospectstudios.co.uk/).
