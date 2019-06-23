@@ -7,16 +7,19 @@ title: Betty And The Blushtones
 
 <img src="assets/band.jpg" class="rounded" alt="the band">
 
-## Gigs
+## Gigs 2019
 
-**2019**
+#### Upcoming Gigs
 
-**Sat. 20th April:** [The New Inn Wilsden](https://www.facebook.com/newinnwilsden/ "The New Inn Wilsden - Facebook Page").  
-**Sat. 22nd June:** Wakefield Sports Club, WF1 3RR.
+**Sat. 17th August:** [The Woodman Inn](https://www.facebook.com/TheWoodmanInn.Bfd/ "The Woodman Inn - Facebook Page") - 1062 Manchester Road, City of Bradford.
 
-## Now Booking for 2019
+#### Recent Gigs
 
-Betty And The Blushtones are now taking bookings for 2019 and beyond.
+**Sat. 22nd June 2019:** Wakefield Summer Splash, Wakefield Sports Club, WF1 3RR.  
+**Sat. 20th April 2019:** [The New Inn Wilsden](https://www.facebook.com/newinnwilsden/ "The New Inn Wilsden - Facebook Page").
+## Now Booking
+
+Need a band for your party, pub, or festival?
 
 Contact us using the details below.
 
